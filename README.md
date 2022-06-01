@@ -1,5 +1,6 @@
 # git_note
 
+git clone <git repostory url> //複製所有檔案(包含push history)
 
 git remote add <遠端的名字>  <遠端的網址>//連到遠端儲存庫
 git branch <new-branch> //創建新branch
